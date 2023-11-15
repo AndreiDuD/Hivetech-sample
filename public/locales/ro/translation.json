@@ -1,0 +1,351 @@
+{
+  "home": {
+    "hero": {
+      "sloganOne": "Transformăm datele în",
+      "sloganTwo": "consilierul dvs. de afaceri",
+      "video": "Urmăriți videoclipul"
+    },
+    "about": {
+      "title": "Despre.",
+      "sub_title": "Introducere",
+      "text": "HIVETECH este Divizia de Inteligență Tehnologică a BDO Romania, combinând priceperea în afaceri cu tehnologia pentru a oferi valoare afacerii. Suntem dedicați să vă oferim servicii de o calitate excepțională, împreună cu amestecul necesar de provocare, sfaturi și relații interpersonale pentru a vă ajuta în optimizarea transformării digitale.",
+      "accordion": [
+        {
+          "id": 1,
+          "title": "BDO a furnizat servicii pentru peste 3.500 de companii de top.",
+          "content": "Acest tip de experiență de durată este fundamentală pentru priceperea în afaceri dobândită, acoperind o gamă vastă de industrii și un profil diversificat de clienți."
+        },
+        {
+          "id": 2,
+          "title": "Transformăm rânduri de date într-o poveste vizuală interactivă captivantă utilizând instrumente de BI precum PowerBI.",
+          "content": "Pentru ca informațiile să fie eficiente, am configurat un set de produse și servicii menite să structureze rapid informațiile și să vă ofere capacitatea de a vă concentra pe viziunea dumneavoastră și de a lua cele mai bune decizii, pe baza datelor dumneavoastră. Managementul de succes al unei companii depinde de capacitatea dumneavoastră de a accesa informațiile de care aveți nevoie, atunci când aveți nevoie, pe orice ecran."
+        },
+        {
+          "id": 3,
+          "title": "Oferim un set de produse personalizabile pentru vizualizarea datelor de afaceri.",
+          "content": "Produsele noastre au fost dezvoltate pentru a aduce claritate în executarea strategiei de afaceri și pentru a accelera luarea deciziilor de afaceri în vederea optimizării în timp util."
+        },
+        {
+          "id": 4,
+          "title": "Interval de timp de 3 săptămâni de la datele dumneavoastră brute la implementarea produsului.",
+          "content": "Din experiențele anterioare, putem afirma cu siguranță că vă putem furniza o soluție implementată pe baza setului nostru de produse în cel mult trei săptămâni de la momentul în care avem datele disponibile. Tot ce trebuie să faceți este să furnizați informațiile în orice structură sau format, iar echipa noastră le va procesa într-un rezultat informativ într-un format dinamic. Toate acestea în trei săptămâni."
+        },
+        {
+          "id": 5,
+          "title": "Transparență și securitate maximă a datelor și procesului.",
+          "content": "Utilizăm un portal bazat pe cloud care asigură securitate de top și urmărirea clară a datelor. HIVETECH este ramura de Inteligență în Afaceri a BDO Romania, furnizând soluții robuste de analiză menite să accelereze performanța afacerii."
+        }
+      ]
+    }
+  },
+  "nav": {
+    "navLinks": [
+      {
+        "id": "about",
+        "title": "Despre"
+      },
+      {
+        "id": "products",
+        "title": "Produse"
+      },
+      {
+        "id": "work",
+        "title": "Proiecte"
+      },
+      {
+        "id": "contact",
+        "title": "Contact"
+      }
+    ],
+    "solutions": "Soluții",
+    "store": "Magazin"
+  },
+  "howWeWork": {
+    "title": "Cum lucrăm.",
+    "sub_title": "Cum arată procesul nostru de producție",
+    "steps": [
+      {
+        "title": "Pornire",
+        "company_name": "Inițiere",
+        "iconBg": "#E6DEDD",
+        "date": "",
+        "points": ["Un workshop în care rafinăm înțelegerea sarcinii."]
+      },
+      {
+        "title": "Sandbox",
+        "company_name": "Procesare",
+        "iconBg": "#E6DEDD",
+        "date": "",
+        "points": ["HIVETECH primește datele, le procesează și prezintă structura soluției."]
+      },
+      {
+        "title": "Beta",
+        "company_name": "Rafinare",
+        "iconBg": "#E6DEDD",
+        "date": "",
+        "points": ["HIVETECH rafinează soluția în funcție de feedback-ul clienților."]
+      },
+      {
+        "title": "Alfa",
+        "company_name": "Lansare inițială",
+        "iconBg": "#E6DEDD",
+        "date": "",
+        "points": ["Soluția este pregătită pentru a fi utilizată și generează rezultate în afaceri."]
+      }
+    ]
+  },
+  "products": {
+    "title": "Produse.",
+    "sub_title": "Produsele noastre",
+    "product_descriptions": [
+      {
+        "description": "Platforma extrem de analitică, capabilă să producă rapoarte standard sau definite de utilizator, oferind o imagine cuprinzătoare a situației financiare și tendințelor din ultimii 8 ani pentru peste 200.000 de entități din România (93% din cifra de afaceri națională)."
+      },
+      {
+        "description": "Actualizată lunar, VehicleVision Analytics este o platformă extrem de intuitivă care oferă o imagine a dinamicii volumului de înmatriculări auto în România pentru toate categoriile de vehicule, segregate după marcă, ani de service, caracteristici tehnice (tip de combustibil, capacitatea motorului, putere) la nivel național sau județean."
+      },
+      {
+        "description": "Colecție de rapoarte care evidențiază situația financiară a afacerii și tendințele critice pe diferite intervale de timp (lună, trimestru, an, ultimele 12 luni), FinanceFocus Navigator oferă o imagine completă pentru domeniile cheie relevante ale afacerii la niveluri de granularitate diferite, cum ar fi centru de cost/profit, divizie, entitate, grup etc."
+      },
+      {
+        "description": "Resursă importantă în domeniul controlului intern, FCVA crește precizia și reduce timpul în procesul de scanare a 100% din datele contabile în căutarea unor tranzacții, evenimente sau condiții neobișnuite. Maparea datelor brute de la nivelul tranzacției la situațiile financiare sau rapoartele interne ajută la detectarea și raportarea oricăror abateri semnificative față de așteptările sau modelele utilizatorului, distincte de intervalele de timp relevante din trecut."
+      },
+      {
+        "description": "Un raport structurat privind datele legate de vânzări, care oferă vedere instantanee asupra performanței generale a vânzărilor, permițând utilizatorului să exploreze într-o privire orice segment de interes (combinații de client, categorie de produse/servicii, regiune etc.) și să identifice zonele în care sunt necesare corecții pentru a maximiza eficiența gestionării portofoliului de produse/servicii și partenerilor. SellMetrics Pro integrează un set de indicatori cheie de performanță (KPI) axați pe volumul fizic și monetar al vânzărilor, marjă, rotație a stocurilor etc., fiecare în termeni de stare și tendințe. Clienții, produsele și furnizorii sunt alocați diferitelor categorii în funcție de vânzări și valoare adăugată, într-un mod dinamic, pe o scală de timp relevantă."
+      },
+      {
+        "description": "Platforma de transfer de informatii complet securizată prin criptare end-to-end"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact.",
+    "sub_title": "Intră în legătură",
+    "name": "Numele tău",
+    "name_placeholder": "Care este numele tău?",
+    "email": "Adresa ta de email",
+    "email_placeholder": "Care este adresa ta web?",
+    "message": "Mesajul tău",
+    "message_placeholder": "Ce vrei să spui?",
+    "submit": "Trimite",
+    "submit_load": "Se trimite..."
+  },
+  "buttons": {
+    "demo": "Demo",
+    "demoExpired": "Proba demo a expirat",
+    "start": "Contactaţi-ne"
+  },
+  "warning": {
+    "title": "Trebuie să vă autentificați",
+    "text": "Pentru a accesa soluțiile puse la dispoziție de Hivetech, trebuie să vă autentificați.",
+    "cancel": "Anulare",
+    "login": "Autentificare"
+  },
+  "bbm": {
+    "home": {
+      "intro": "Accesați cea mai exhaustivă bază de date financiară publică disponibilă",
+      "attributes": "Analiză rapidă și flexibilă pentru",
+      "list_attributes": ["Performanță", "Scalabilitate", "Decizii"],
+      "text": "Cea mai bună agregare a datelor financiare disponibile public într-un raport ce va ajuta in evaluarea evaluarea strategiei actualei"
+    },
+    "analytics": {
+      "intro": "Rapoarte vizuale",
+      "title": "Date agregate pe specificul oricărei analize de business",
+      "text": "Am structurat toate informațiile financiare relevante publicate de Ministerul Finanțelor din România, cuprinzând date a peste 200.000 de entități care activează în România, reprezentând 93% din cifra de afaceri totală la nivel național. Baza noastră de date conține entitățile care îndeplinesc cel puțin una dintre următoarele condiții: - Cifra de afaceri depășește 1.000.000 de lei - Active totale peste 500.000 de lei - Situațiile financiare înaintate la Ministerul Finanțelor la data ultimei noastre interogări: prima zi a lunii curente - Nu am inclus entități financiare în baza noastră de date."
+    },
+    "features": {
+      "title": "Beneficiile utilizării Business Benchmarking Machine",
+      "text": "",
+      "feature": {
+        "0": {
+          "title": "PENTRU A CUNOAȘTE",
+          "text": "Starea oricărei entități într-un panou de control exhaustiv, utilizând un sistem de culori intuitiv."
+        },
+        "1": {
+          "title": "Evoluția unei entități în raport cu mediul său concurențial."
+        },
+        "2": {
+          "title": "PENTRU A IDENTIFICA",
+          "text": "Caracteristici particulare ale modelelor de afaceri adoptate de jucătorii de top din orice industrie de interes."
+        },
+        "3": {
+          "title": "PENTRU A DECIDE",
+          "text": "Obiectivele strategice ale afacerii pe termen mediu și lung."
+        }
+      }
+    }
+  },
+  "al": {
+    "home": {
+      "intro": "Evoluția volumului de înmatriculări auto în România",
+      "attributes": "Informare rapidă și flexibilă pentru",
+      "list_attributes": ["Strategie", "Scalabilitate", "Performanță"],
+      "text": "VehicleVision Analytics VĂ AJUTĂ SĂ DEFINIȚI DECIZII STRATEGICE ȘI ACȚIUNI CORECTIVE SPECIFICE"
+    },
+    "analytics": {
+      "intro": "VehicleVision Analytics OFERĂ",
+      "title": "PROGNOZE PENTRU 3 PERIOADE DE TIMP: TERMEN SCURT, TERMEN MEDIU ȘI TERMEN LUNG",
+      "sub_headOne": "SCENARII DE ANALIZĂ",
+      "sub_textOne": "Dinamici în timp: în lună, de la începutul anului, ultimele 3 luni, ultimele 12 luni și referințele relevante.",
+      "sub_headTwo": "8 PARAMETRI DE AGREGARE",
+      "sub_textTwo": "Marcă, Județ, Nou/Second-hand, Capacitatea motorului, Putere, Vechime, Combustibil, Tipul de proprietar.",
+      "sub_headThree": "6 TIPURI DE RAPOARTE",
+      "sub_textThree": "Dinamica volumului înmatriculărilor pentru TOP10 mărci. Perspectiva evoluției pe termen scurt, termen mediu, termen lung. Structura înregistrărilor în timp pe diferite criterii de agregare. Dinamica volumului înmatriculăarilor în timp. Variații relevante în timp la nivelul de agregare specificat. Comparații în timp la nivelul de agregare specificat."
+    },
+    "features": {
+      "title": "Beneficiile utilizării VehicleVision Analytics",
+      "text": "",
+      "feature": {
+        "0": {
+          "title": "PENTRU A CUNOAȘTE",
+          "text": "Starea și tendințele pieței în ansamblu sau pentru zona de interes specifică."
+        },
+        "1": {
+          "title": "PENTRU A COMPARA",
+          "text": "Performanța dumneavoastră în raport cu atributele relevante de comparație."
+        },
+        "2": {
+          "title": "PENTRU A IDENTIFICA",
+          "text": "Domenii în care performanța dumneavoastră diferă de performanța concurenței dumneavoastră."
+        },
+        "4": {
+          "title": "PENTRU A ANTICIPA",
+          "text": "Evoluția segmentului de piață și efectele acesteia asupra performanței dumneavoastră."
+        },
+        "5": {
+          "title": "PENTRU A EVALUA",
+          "text": "Elementele specifice care afectează tendințele pe termen scurt, mediu și lung."
+        },
+        "6": {
+          "title": "PENTRU A DECIDE",
+          "text": "Acțiunile ce trebuie întreprinse pentru a profita de oportunități sau pentru a contracara tendințele negative."
+        }
+      }
+    }
+  },
+  "cfo": {
+    "home": {
+      "intro": "Vă ajută în definirea, execuția sau corectarea strategiei",
+      "attributes": "Strategie:",
+      "list_attributes": ["Definire", "Execuție", "Corecție"],
+      "text": "FinanceFocus Navigator ADUCE CLARITATE ÎN EXECUȚIA STRATEGIEI DE AFACERI ȘI ACCELEREAZĂ LUAREA DE DECIZII PENTRU OPTIMIZAREA ACESTEIA"
+    },
+    "analytics": {
+      "intro": "FinanceFocus Navigator OFERĂ AVERTISMENTE ACTUALE REFERITOARE LA ",
+      "title": "SITUAȚIA FINANCIARĂ ACTUALĂ ȘI PROGNOZATĂ",
+      "text": "Starea curentă și performanța în diferite perioade de timp de interes. Abaterea instantanee de la traiectoria de afaceri urmărită. Abaterea de la obiectivele propuse pentru orice perioadă de timp sau la un anumit moment în timp (buget, benchmark, prognoză, anul sau luna anterioară, etc.). INDICĂ ASPECTELE NEOBINȚINUTE Tendințe neobișnuite/neașteptate ale factorilor determinanți, la nivelul detaliat analizat. PREVEDE ȘI NOTIFICĂ Evaluăm în mod cuprinzător evoluția viitoare a indicatorilor financiari și vă notificăm instantaneu cu privire la dezvoltările neobișnuite înainte ca acestea să se întâmple. De exemplu: Ne așteptăm ca în tendința de creștere a cifrei de afaceri, rezultatul operațional să aibă și el o dinamică pozitivă. În caz contrar, un semnal de o anumită intensitate marchează acest fapt în funcție de amplitudinea divergenței respective. AVERTIZEAZĂ Cu privire la o probabilitate crescută de a ajunge la abateri în afara granițelor sănătății financiare."
+    },
+    "features": {
+      "title": "FinanceFocus Navigator ACȚIONEAZĂ CA UN AJUTOR PENTRU AMBELE NIVELURI, DE MANAGEMENT ȘI OPERAȚIONAL, ÎN CADRUL ORGANIZAȚIEI",
+      "text": "-",
+      "feature": {
+        "0": {
+          "title": "PENTRU A INVESTIGA",
+          "text": "Situațiile neobișnuite, neașteptate care pot evidenția erori de raportare."
+        },
+        "1": {
+          "title": "PENTRU A PREVEDE",
+          "text": "Situația ulterioră în cazul în care nu se iau măsuri pentru a corecta cursul actual."
+        },
+        "2": {
+          "title": "PENTRU A IDENTIFICA",
+          "text": "Punctele critice la punctele de agregare și în cel mai relevant sistem de referință pentru factorii cheie care trebuie revizuiți pentru a controla cursul curent."
+        },
+        "3": {
+          "title": "PENTRU A EXPLICA",
+          "text": "Variațiile curente, pe un nivel cauzal, nu doar efectele."
+        },
+        "4": {
+          "title": "PENTRU A CUNOAȘTE",
+          "text": "Unde vă aflați din punct de vedere al performanței și al situației financiare. Cât de departe sunteți de punctul de referință ales ca benchmark în analiză."
+        },
+        "5": {
+          "title": "PENTRU A RAPORTA",
+          "text": "Prin simpla exportare a acelor instanțe care evidențiază aspectele cele mai relevante."
+        },
+        "6": {
+          "title": "PENTRU A DECIDE",
+          "text": "În avans, pe baza datelor și informațiilor relevante, acțiunile corective necesare pentru a asigura cursul financiar dorit și realizarea obiectivelor asumate."
+        }
+      }
+    }
+  },
+  "fcva": {
+    "home": {
+      "intro": "REDUCEȚI TIMPUL PETRECUT PENTRU EXECUTAREA ȘI REVIZUIREA FINANCIARĂ",
+      "attributes": "Asistentul tău financiar digital pentru: ",
+      "list_attributes": ["Execuție", "Revizuire", "Corecție"],
+      "text": "FinanceGuard Assistant OFERĂ AVERTISMENTE ACTUALE REFERITOARE LA STAREA ACTUALĂ SAU PREVIZIONATĂ"
+    },
+    "analytics": {
+      "intro": "ASISTENTUL FINANCIAR DIGITAL",
+      "title": "REDUCE SIMȚITOR TIMPUL PETRECUT ÎN PREGĂTIREA RAPORTĂRILOR FINANCIARE",
+      "text": "Accelerază pregătirea situațiilor financiare; Răspunde (susținut de argumente relevante) la toate întrebările legate de diferitele instanțe sau variații ale fiecărei situații financiare, înainte ca acestea să fie chiar solicitate; NiciO surpriză în timpul auditurilor interne sau externe viitoare; Resursă importantă în domeniul controlului intern, AFD crește acuratețea și reduce timpul în procesul de scanare al datelor contabile cu 100% pentru a identifica tranzacții, evenimente sau condiții neobișnuite. Maparea datelor brute de la nivelul tranzacțiilor către situațiile financiare sau rapoartele interne, pentru a detecta și raporta orice abatere semnificativă față de așteptările utilizatorului sau de modele distincte din intervalele de timp relevante din trecut."
+    },
+    "features": {
+      "title": "ASISTENTUL NOSTRU VIRTUAL SCOATE ÎN EVIDENȚĂ INSTANTANEU ORICE ANOMALIE RELEVANTĂ PENTRU ACTIVITATEA DE CONTROL",
+      "text": "Potrivit în special pentru activitățile operaționale legate de raportare, control și audit intern, oferă o eficiență maximă procesului de abordare a circumstanțelor neobișnuite, economisind timpul petrecut în identificarea potențialelor probleme și permițând analiza țintită a datelor la orice nivel relevant de agregare.",
+      "feature": {
+        "0": {
+          "title": "PENTRU A EXPLORA",
+          "text": "Până la sursă orice situații neobișnuite, neașteptate care pot evidenția erori de raportare"
+        },
+        "1": {
+          "title": "PENTRU A IDENTIFICA",
+          "text": "Contul analitic specific și tranzacțiile responsabile de variațiile semnificative"
+        },
+        "2": {
+          "title": "PENTRU A EXPLICA",
+          "text": "Variațiile curente, pe un nivel cauzal, nu doar efectele."
+        },
+        "3": {
+          "title": "PENTRU A RAPORTA",
+          "text": "Prin simpla exportare a acelor instanțe care evidențiază aspectele cele mai relevante"
+        }
+      }
+    }
+  },
+  "sa": {
+    "home": {
+      "intro": "Optimizarea în timp real a inventarului în funcție de lanțul de aprovizionare și cererea de pe piață",
+      "attributes": "Identificarea parametrilor cheia a vânzarilor pentru:",
+      "list_attributes": ["Performanță", "Scalabilitate", "Strategie"],
+      "text": "SellMetrics Pro OFERĂ O PERSPECTIVĂ ANALITICĂ ASUPRA METRICILOR CHEIE DE VÂNZĂRI"
+    },
+    "analytics": {
+      "intro": "SellMetrics Pro",
+      "title": "Informații pentru o performanță sporită a vânzărilor și o gestionare eficientă a portofoliului",
+      "text": "Un raport bine structurat privind datele legate de vânzări, oferind vederi instantanee asupra performanței generale a vânzărilor, permițând utilizatorului să exploreze într-o privire orice segment de interes (combinații de client, categorie de produse/servicii, regiune etc.) și să identifice zonele în care sunt necesare corecții pentru a maximiza eficiența produselor/serviciilor și gestionarea portofoliului de parteneri. SellMetrics Pro combină un set de KPI-uri concentrate pe volumul fizic și monetar al vânzărilor, marjă, rotație a stocului etc., fiecare în termeni de stare și tendințe. Clienții, produsele și furnizorii sunt alocați diferitelor categorii în funcție de vânzări și valoare adăugată, într-un mod dinamic pentru o perioadă de timp relevantă."
+    },
+    "features": {
+      "title": "SellMetrics Pro OFERĂ UN TABLOU DE BORD INTUITIV AL OBIECTIVELOR DE VÂNZĂRI, UȘURÂND PROCESUL DECIZIONAL RAPID",
+      "text": "Este foarte configurabil în conformitate cu specificul afacerii (organizare internă, strategie, obiective, geografie etc.). Valoarea sa cea mai mare constă în utilizarea sa pentru stabilirea și executarea strategiei de vânzări, urmărirea performanțelor de vânzări la mai multe niveluri. Oferă aspecte importante referitoare la ajustările care trebuie luate în considerare în ceea ce privește clienții, furnizorii și categoriile de produse pentru a maximiza performanța generală.",
+      "feature": {
+        "0": {
+          "title": "PENTRU A SPORI",
+          "text": "Performanța vânzărilor identificând oportunitățile ratate de vânzare adițională și încrucișată"
+        },
+        "1": {
+          "title": "PENTRU A IDENTIFICA",
+          "text": "Acele produse care se vând cel mai bine și aduc cea mai mare valoare"
+        },
+        "2": {
+          "title": "PENTRU A PROFILA",
+          "text": "Clienții care îți aduc cea mai mare valoare"
+        },
+        "3": {
+          "title": "PENTRU A EVALUA",
+          "text": "Unde te afli în ceea ce privește performanța vânzărilor țintă. Cât de departe ești de punctul de referință ales ca benchmark în analiză"
+        },
+        "4": {
+          "title": "PENTRU A RAPORTA",
+          "text": "Într-un format intuitiv și dinamic performanța vânzărilor față de obiectivele companiei"
+        },
+        "5": {
+          "title": "PENTRU A DECIDE",
+          "text": "În avans, pe baza datelor și informațiilor relevante, acțiunile corective necesare pentru a asigura cursul dorit al performanței vânzărilor și realizarea obiectivelor asumate"
+        }
+      }
+    }
+  }
+}

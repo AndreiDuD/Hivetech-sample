@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /business-benchmarking-machine
+Disallow: /automotive-landscape
+Disallow: /cfo-compass
+Disallow: /financial-control-virtual-assistant
+Disallow: /sales-analyzer
+Disallow: /profile
+Disallow: /safe-send

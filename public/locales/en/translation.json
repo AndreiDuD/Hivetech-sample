@@ -1,0 +1,354 @@
+{
+  "home": {
+    "hero": {
+      "sloganOne": "We make data your",
+      "sloganTwo": "business advisor",
+      "video": "Watch video"
+    },
+    "about": {
+      "title": "About.",
+      "sub_title": "Introduction",
+      "text": "HIVETECH is BDO Romania’s tech edged Intelligence Unit mixing business acumen and technology to deliver business value. We are committed to provide you services at an exceptional quality level along with the necessary mix of challenge, advice and interpersonal relationships to assist you in streamlining digital transformation.",
+      "accordion": [
+        {
+          "id": 1,
+          "title": "BDO has delivered services to more than 3,500 top tier businesses.",
+          "content": "This kind of long-lasting experience is fundamental for the business acumen acquired, covering a vast array of industries and a diversified client profile."
+        },
+        {
+          "id": 2,
+          "title": "We transform rows of data into a compelling interactive visual story using BI tools such as PowerBI.",
+          "content": "For that information to be effective, we have configured a set of products and services meant to quickly structure information and empower you to stay focus on your vision and to be sure you make the best decisions, based on your data. The successful  management of a company depends on your ability to access the information you need when you need it, on any screen."
+        },
+        {
+          "id": 3,
+          "title": "We offer a highly customizable data business visualization set of products.",
+          "content": "Our products have been developed to bring clarity in business strategy execution and speed up business decisions for timely optimization."
+        },
+        {
+          "id": 4,
+          "title": "3 weeks timespan from your raw data to product implemented.",
+          "content": "From past experiences, we can surely state that we can deliver you an implemented solution based on our product set in no more than three weeks from the moment we have the available data. All you have to do is to provide the information in any structure or format and our team will process it into a business informative outcome in a dynamic format. All that in three weeks time."
+        },
+        {
+          "id": 5,
+          "title": "Transparency and utmost security of data and process.",
+          "content": "We are using a cloud-based portal ensuring top security and data breadcrumb traceability. Hivetech is the Business Intelligence branch of BDO Romania, delivering robust analytics solutions meant to speed up business performance."
+        }
+      ]
+    }
+  },
+  "nav": {
+    "navLinks": [
+      {
+        "id": "about",
+        "title": "About"
+      },
+      {
+        "id": "products",
+        "title": "Products"
+      },
+      {
+        "id": "work",
+        "title": "Work"
+      },
+      {
+        "id": "contact",
+        "title": "Contact"
+      }
+    ],
+    "solutions": "Solutions",
+    "store": "Store"
+  },
+  "howWeWork": {
+    "title": "How we work.",
+    "sub_title": "What our production process looks like",
+    "steps": [
+      {
+        "title": "Kick off",
+        "company_name": "Initiation",
+        "iconBg": "#E6DEDD",
+        "date": "",
+        "points": ["A workshop in which we refine the understanding of the task."]
+      },
+      {
+        "title": "Sandbox",
+        "company_name": "Processing",
+        "iconBg": "#E6DEDD",
+        "date": "",
+        "points": ["Hivetech receives the data processes it and presents the structure of the solution."]
+      },
+      {
+        "title": "Beta",
+        "company_name": "Refinement",
+        "iconBg": "#E6DEDD",
+        "date": "",
+        "points": ["Hivetech refines the solution according to Clients feedback."]
+      },
+      {
+        "title": "Alpha",
+        "company_name": "Initial launch",
+        "iconBg": "#E6DEDD",
+        "date": "",
+        "points": ["The solution is ready to be used and catalyses business results."]
+      }
+    ]
+  },
+  "products": {
+    "title": "Products.",
+    "sub_title": "Our products",
+    "product_descriptions": [
+      {
+        "description": "Highly analytical platform, capable of producing standard or user-defined reports, offering a comprehensive image of the financial status and trends in the last 7 years for over 200.000 entities in Romania (93% of the national turnover)."
+      },
+      {
+        "description": "Monthly updated, Automotive Landscape is a highly intuitive platform that provides an image of the dynamics of the car registration volume in Romania for all vehicle categories, segregated on brand, years of service, technical attributes (fuel type, engine capacity, power) at national or county level."
+      },
+      {
+        "description": "Collection of reports, highlighting the business financial status and critical trends on different time scales (month, quarter, year, last 12 months), FinanceFocus Navigator offers the full image for relevant business key areas at different granularity levels such as cost/profit center, division, entity, group, etc."
+      },
+      {
+        "description": "Important resource in the area of internal control, FCVA increases the accuracy and reduces the time in the process of 100% scanning the accounting data for unusual transactions, events or conditions. It maps the raw data from transaction level to financial statements or internal reports in order to detect and report any significant departure from user expectations or patterns distinct from the relevant past time intervals."
+      },
+      {
+        "description": "A well-structured report on sales related data providing instant views on overall sales performance enabling the user to explore at a glance any segment of interest (combinations of client, category of products/services, region, etc.) and to identify the areas where corrections are necessary in order to maximize the efficiency of products/services and partners portfolio management. SellMetrics Pro blends a set of KPIs focused on sales physical and monetary volume, mark-up, inventory turnover, etc., each one in terms of status and trends. Clients, products and suppliers are allocated to different categories in terms of sales and value added, in a dynamic manner for relevant time scale."
+      },
+      {
+        "description": "Completely cripted end-to-end information channel transfer platform."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact.",
+    "sub_title": "Get in touch",
+    "solution": "Choose products",
+    "name": "Your Name",
+    "name_placeholder": "What's your name?",
+    "phone": "Contact number",
+    "email": "Your email",
+    "email_placeholder": "What's your email address?",
+    "message": "Your Message",
+    "message_placeholder": "What you want to say?",
+    "submit": "Send",
+    "submit_load": "Sending..."
+  },
+  "buttons": {
+    "demo": "Try Demo",
+    "demoExpired": "Demo trial expired",
+    "start": "Get in touch"
+  },
+  "warning": {
+    "title": "You must login",
+    "text": "In order to access the solutions made available by Hivetech you must login first.",
+    "cancel": "Cancel",
+    "login": "Login"
+  },
+  "bbm": {
+    "home": {
+      "intro": "Enter The Most Exhaustive Public Available Financial Database",
+      "attributes": "Fast, flexible financing for",
+      "list_attributes": ["Performance", "Scalability", "Security"],
+      "text": "The best aggregation of financial public available data structured in a business ready report to inform your strategy"
+    },
+    "analytics": {
+      "intro": "DATA ANALYTICS DASHBOARD",
+      "title": "Manage Data Analytics Centrally",
+      "text": "We have structured all relevant financial information published by the Romanian Ministry of Finance encompassing data from more than 200.000 entities operating in Romania, accounting for 93% of the total turnover nationwide. Our database contains the entities which fulfill at least one of the following: - Turnover exceeding 1.000.000 lei - Total assets over 500.000 lei - Statutory financial statements submitted at the Ministry of Finance at the date of our last query: first day of current month - We have not included financial entities in our database."
+    },
+    "features": {
+      "title": "The Benefits of Using DataBenchmark Pro",
+      "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi itaque voluptatibus temporibus enim et, maxime vel ex veritatis ratione iste, harum reprehenderit consequuntur nemo quas rerum nostrum dolore accusamus praesentium.",
+      "feature": {
+        "0": {
+          "title": "TO KNOW",
+          "text": "The status of any entity in an exhaustive dashboard, using an intuitive color scheme."
+        },
+        "1": {
+          "title": "TO ASSESS",
+          "text": "The development of an entity against its competitive environment."
+        },
+        "2": {
+          "title": "TO IDENTIFY",
+          "text": "Particular features of business models adopted by top players in any industry of interest."
+        },
+        "3": {
+          "title": "TO DECIDE",
+          "text": "The business strategy milestones for the mid to long term."
+        }
+      }
+    }
+  },
+  "al": {
+    "home": {
+      "intro": "Highlighting The Dynamics Of The Car Registration Numbers In Romania",
+      "attributes": "Fast, flexible financing for",
+      "list_attributes": ["Performance", "Scalability", "Security"],
+      "text": "VehicleVision Analytics ASSISTS YOU IN DEFINING STRATEGIC DECISIONS AND SPECIFIC CORRECTIVE ACTIONS"
+    },
+    "analytics": {
+      "intro": "VehicleVision Analytics OFFERS",
+      "title": "FORECASTED TRENDS FOR 3 PERIODS OF TIME: SHORT TERM, MEDIUM TERM AND LONG TERM",
+      "sub_headOne": "DYNAMIC SCENARIOS OF ANALYSIS",
+      "sub_textOne": "Time based comparison: month-to-date, year-to-date, last 3 month, last 12 months and their relevant references.",
+      "sub_headTwo": "8 PARAMETERS OF AGGREGATION",
+      "sub_textTwo": "Car brand. County of registration. New/Used vehicle. Capacity of motor. Power. Time of registration. Type of fuel. Type of owner.",
+      "sub_headThree": "6 TYPES OF REPORTS",
+      "sub_textThree": "Dynamics of new registrations for top performers. Perspective of trends evolution: short term, medium term, long term. Structure of new registrations in time. Dynamics of new registrations in time. Relevant time variations at the specified aggregation level. Time comparisons at the specified aggregation level."
+    },
+    "features": {
+      "title": "The Benefits of Using VehicleVision Analytics",
+      "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi itaque voluptatibus temporibus enim et, maxime vel ex veritatis ratione iste, harum reprehenderit consequuntur nemo quas rerum nostrum dolore accusamus praesentium.",
+      "feature": {
+        "0": {
+          "title": "TO KNOW",
+          "text": "The state and trends of the market as a whole or for the specific area of interest."
+        },
+        "1": {
+          "title": "TO COMPARE",
+          "text": "Your performance against your relevant benchmarking attributes."
+        },
+        "2": {
+          "title": "TO IDENTIFY",
+          "text": "Areas when your performance is different than the performance of your competition."
+        },
+        "4": {
+          "title": "TO ANTICIPATE",
+          "text": "The evolution of your market segment and the effects of it on your performance."
+        },
+        "5": {
+          "title": "TO EVALUATE",
+          "text": "The specific elements that affect the trends on a short term, medium term and long term."
+        },
+        "6": {
+          "title": "TO DECIDE",
+          "text": "Actions to be taken for capitalize on opportunities or counteract on negative trends."
+        }
+      }
+    }
+  },
+  "cfo": {
+    "home": {
+      "intro": "Helps You In Both Business Strategy And Execution",
+      "attributes": "Fast, flexible financing for",
+      "list_attributes": ["Performance", "Scalability", "Security"],
+      "text": "FinanceFocus Navigator BRINGS CLARITY IN BUSINESS STRATEGY EXECUTION AND SPEEDS UP BUSINESS DECISIONS FOR TIMELY OPTIMIZATION"
+    },
+    "analytics": {
+      "intro": "FinanceFocus Navigator OFFERS TIMELY WARNINGS RELATED TO BOTH",
+      "title": " CURRENT AND FORECASTED FINANCIAL STATUS",
+      "text": "FINANCIAL STATUS AT A GLANCE    The current state and the performance on different time slots of interest.    The instant deviation from the pursued business trajectory.    The deviation from the proposed milestones for any time slot or at a certain moment in time (budget, benchmark, forecast, prior year or month, etc.).    PINPOINTS THE UNUSUAL    Unusual/unexpected trends of the determining factors, at the analyzed detail level.    FORESEES AND NOTIFIESWe evaluate the future evolution of financial indicators comprehensively and notify you instantly on unnatural developments before it happens. E.G.: We expect that in the trend of increasing turnover, the operational result will also have a positive dynamic. Otherwise, an alert of a certain intensity marks this fact depending on the amplitude of the respective divergence. WARNS About an increased probability of reaching deviations outside of the financial health envelope."
+    },
+    "features": {
+      "title": "FinanceFocus Navigator BRINGS CLARITY IN BUSINESS STRATEGY EXECUTION AND SPEEDS UP BUSINESS DECISIONS FOR TIMELY OPTIMIZATION",
+      "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi itaque voluptatibus temporibus enim et, maxime vel ex veritatis ratione iste, harum reprehenderit consequuntur nemo quas rerum nostrum dolore accusamus praesentium.",
+      "feature": {
+        "0": {
+          "title": "TO INVESTIGATE",
+          "text": "The unusual, unexpected situations which may showcase reporting errors."
+        },
+        "1": {
+          "title": "TO ANTICIPATE",
+          "text": "The subsequent situation/performance in case no action is taken to correct the current course."
+        },
+        "2": {
+          "title": "TO IDENTIFY",
+          "text": "The critical points at the aggregation points and in the most relevant reference system. Key factors to be revised in order to course-control the current status."
+        },
+        "3": {
+          "title": "TO EXPLAIN",
+          "text": "The current variations, on a causal level, not only the effects."
+        },
+        "4": {
+          "title": "TO KNOW",
+          "text": "Where you are from a performance and financial standpoint. How far away you are from the reference point chosen as a benchmark in the analysis."
+        },
+        "5": {
+          "title": "TO REPORT",
+          "text": "By simply exporting those instances that underline the most relevant aspects."
+        },
+        "6": {
+          "title": "TO DECIDE",
+          "text": "In advance, based on relevant data and information, the corrective actions necessary to ensure the desired financial course and the achievement of the assumed objectives."
+        }
+      }
+    }
+  },
+  "fcva": {
+    "home": {
+      "intro": "CUT DOWN THE TIME SPENT FOR FINANCIAL EXECUTION AND REVIEW",
+      "attributes": "Fast, flexible financing for",
+      "list_attributes": ["Performance", "Scalability", "Security"],
+      "text": "FinanceGuard Assistant OFFERS TIMELY WARNINGS RELATED TO CURRENT OR FORECASTED ACCOUNT STATUS"
+    },
+    "analytics": {
+      "intro": "FinanceGuard Assistant ",
+      "title": "DRASTICALLY CUTS DOWN THE TIME SPENT IN PREPARING FINANCIAL REPORTING",
+      "text": "FINANCIAL MANAGER Speeds up the preparation of financial statements; Answers (backed up by relevant arguments) to all questions related to different instances or variations of every financial status, before they are even asked; No surprises during future internal or external audit engagements; Important resource in the area of internal control, FCVA increases the accuracy and reduces the time in the process of 100% scanning the accounting data for unusual transactions, events or conditions. It maps the raw data from transaction level to financial statements or internal reports in order to detect and report any significant departure from user expectations or patterns distinct from the relevant past time intervals. "
+    },
+    "features": {
+      "title": "OUR VIRTUAL ASSISTANT HIGHLIGHTS INSTANTLY ANY ANOMALY RELEVANT FOR THE  CONTROLLING ACTIVITY ",
+      "text": "Mostly suited for operational activities related to reporting, controlling and internal audit, it gives maximum effectiveness to the process of addressing unusual circumstances, by saving time spent in identifying potential issues and allowing targeted analysis of data at any relevant level of aggregation.",
+      "feature": {
+        "0": {
+          "title": "TO EXPLORE",
+          "text": "To its root any unusual, unexpected situations which may showcase reporting errors"
+        },
+        "1": {
+          "title": "TO IDENTIFY",
+          "text": "The specific analytical account and the the transactions responsible for significant variations "
+        },
+        "2": {
+          "title": "TO EXPLAIN",
+          "text": "The current variations, on a causal level, not only the effects."
+        },
+        "3": {
+          "title": "TO REPORT",
+          "text": "By simply exporting those instances that underline the most relevant aspects"
+        }
+      }
+    }
+  },
+  "sa": {
+    "home": {
+      "intro": "Real Time Optimization Of The Inventory Against Both Supply-chain And Market Demand",
+      "attributes": "Fast, flexible financing for",
+      "list_attributes": ["Performance", "Scalability", "Security"],
+      "text": "SellMetrics Pro OFFERS AN ANALYTICAL PERSPECTIVE ON KEY SALES METRICS"
+    },
+    "analytics": {
+      "intro": "SellMetrics Pro",
+      "title": "Unleashing Insights for Enhanced Sales Performance and Efficient Portfolio Management",
+      "text": "A well-structured report on sales related data providing instant views on overall sales performance enabling the user to explore at a glance any segment of interest (combinations of client, category of products/services, region, etc.) and to identify the areas where corrections are necessary in order to maximize the efficiency of products/services and partners portfolio management. SellMetrics Pro blends a set of KPIs focused on sales physical and monetary volume, mark-up, inventory turnover, etc., each one in terms of status and trends. Clients, products and suppliers are allocated to different categories in terms of sales and value added, in a dynamic manner for relevant time scale."
+    },
+    "features": {
+      "title": "SellMetrics Pro OFFERS AN INTUITIVE DASHBOARD OF THE SALES GOALS STREAMLINING FAST DECISION MAKING",
+      "text": "It is highly configurable in line with business specifics (internal organization, strategy, objectives, geography, etc). Its most value stands in using it for setting and executing sales strategy, following sales performance at multiple levels. It provides highlights on adjustments to be considered in relation to clients, suppliers and categories of products in order to maximize the overall performance.",
+      "feature": {
+        "0": {
+          "title": "TO BOOST",
+          "text": "Sale performance by identifying missed up-sell and cross-sell opportunities"
+        },
+        "1": {
+          "title": "TO IDENTIFY",
+          "text": "Those products that sell best and bring most value"
+        },
+        "2": {
+          "title": "TO PROFILE",
+          "text": "Those clients that bring you most value "
+        },
+        "3": {
+          "title": "TO ASSESS",
+          "text": "Where you are from a target sales performance. How far away you are from the reference point chosen as a benchmark in the analysis"
+        },
+        "4": {
+          "title": "TO REPORT",
+          "text": "In an intuitive and dynamic format the sales performance against company objectives"
+        },
+        "5": {
+          "title": "TO DECIDE",
+          "text": "In advance, based on relevant data and information, the corrective actions necessary to ensure the desired sales performance course and the achievement of the assumed objectives"
+        }
+      }
+    }
+  }
+}

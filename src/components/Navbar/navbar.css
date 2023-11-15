@@ -1,0 +1,59 @@
+.button {
+  position: relative;
+  font-family: "Heebo", sans-serif;
+  padding: 2px 15px;
+  border: 0;
+  font-weight: 600;
+  font-size: 1em;
+  border-radius: 16px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.button--login {
+  background: blue;
+  color: #ffffff;
+}
+
+.button--login:hover {
+  text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.562);
+  transform: scale(1.01);
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 255, 0.575);
+}
+
+.button::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100px;
+  width: 50%;
+  height: 100%;
+  transform: rotate(80deg);
+  background: #ffffff77;
+  filter: blur(10px);
+  transition: 0.6s ease-in-out;
+}
+
+.button:hover::after {
+  left: 100%;
+}
+
+.progress_wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.progress_bar {
+  position: absolute;
+  top: 4.2rem;
+  left: 0;
+  width: 0%;
+  height: 5px;
+  background-color: #3f33ff;
+}
+.svg-path-class {
+  fill: white; /* Replace 'blue' with the desired color */
+}
