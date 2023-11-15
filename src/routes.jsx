@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { useState } from 'react';
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import AccessControl from './AccessControl';
+import Home from './components/Home/Home';
 import Profile from './components/Profile/Profile';
 import AL from './components/Solutions/AL';
 import BBM from './components/Solutions/BBM';
@@ -10,7 +11,6 @@ import CFO from './components/Solutions/CFO';
 import FCVA from './components/Solutions/FCVA';
 import SA from './components/Solutions/SA';
 import SafeSend from './components/Solutions/SafeSend/Safe_send';
-import Home from './components/home/Home';
 import NotFound from './not_found';
 
 const pageTransitionVariants = {
